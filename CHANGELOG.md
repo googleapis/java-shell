@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/googleapis/java-shell/compare/v1.0.0...v1.1.0) (2021-08-09)
+
+
+### Features
+
+* configure initial sp version ([#43](https://www.github.com/googleapis/java-shell/issues/43)) ([05e3d82](https://www.github.com/googleapis/java-shell/commit/05e3d826673e06183b9bf62fff75f1f5bbc9471d))
+
 ## [1.0.0](https://www.github.com/googleapis/java-shell/compare/v0.1.1...v1.0.0) (2021-07-01)
 
 
