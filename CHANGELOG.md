@@ -1,5 +1,24 @@
 # Changelog
 
+## [2.2.1](https://github.com/googleapis/java-shell/compare/v2.2.0...v2.2.1) (2022-06-23)
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v2.13.0 ([#215](https://github.com/googleapis/java-shell/issues/215)) ([1df50b7](https://github.com/googleapis/java-shell/commit/1df50b71c4c33721233cf2dccad70e325d5033b8))
+
+## [2.2.0](https://github.com/googleapis/java-shell/compare/v2.1.12...v2.2.0) (2022-05-24)
+
+
+### Features
+
+* add build scripts for native image testing in Java 17 ([#1440](https://github.com/googleapis/java-shell/issues/1440)) ([#208](https://github.com/googleapis/java-shell/issues/208)) ([9c2a201](https://github.com/googleapis/java-shell/commit/9c2a201ce9f60cc1afbad473c8af9cf92d93bd55))
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v2.12.0 ([#207](https://github.com/googleapis/java-shell/issues/207)) ([f88dd65](https://github.com/googleapis/java-shell/commit/f88dd65088abd3d50a524630ffcc2a6f00d6f9eb))
+
 ### [2.1.12](https://github.com/googleapis/java-shell/compare/v2.1.11...v2.1.12) (2022-04-15)
 
 
